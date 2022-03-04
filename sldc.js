@@ -11,7 +11,13 @@
 // Maintain
 // Planning
 // Testing & Integration
-
+ 
+console.log(`Planning`)
+console.log(`Analysis of Requirments`)
+console.log(`Design`)
+console.log(`Implementation`)
+console.log(`Testing & Integration`)
+console.log(`Maintain`)
 
 //////////////////PROBLEM 2////////////////////
 /*

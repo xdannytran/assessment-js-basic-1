@@ -5,10 +5,19 @@ const faveColors = ['red', 'green', 'black']
 
 //CODE HERE
 
+var colorCopy =[`red`, `green`, `black`]
+var someColor = colorCopy.slice(0, 0) 
+
 //////////////////PROBLEM 2////////////////////
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
 //CODE HERE
+
+var colorCopy = [`red`,`green`, `black`]
+  colorCopy.push(`yellow`)
+  console.log(`colorCopy`)
+
+
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -20,7 +29,11 @@ const numbers = [1, 2, 3, 4, 5]
 
 //CODE HERE
 
-
+var numsArr = [1, 2 , 3, 4, 5]
+for (let i = 0; i < numsArr.length; i++) {
+  numsArr[i] += 1
+}
+console.log(numsArr)
 //////////////////PROBLEM 4////////////////////
 /* 
   Create an empty array called 'answers'.
@@ -34,3 +47,5 @@ const numbers = [1, 2, 3, 4, 5]
 const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
 
 // CODE HERE
+
+for (let i = 100; i < 100)

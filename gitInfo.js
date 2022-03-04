@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,9 @@
 */
 
 //CODE HERE
+
+var gitHubDefinition =`Where you store repo`
+    console.log(` gitHubDefintion`)
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +32,9 @@
 
 //CODE HERE
 
+var gitInitDefinition = `create empty git repo`
+    console.log(`gitInitDefintion`)
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,6 +42,8 @@
 */
 
 //CODE HERE
+
+var gitCloneDefinition = ``
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -53,6 +63,10 @@
 */
 
 //CODE HERE
+
+var gitAddDefinition `add file context to index`
+    console.log(`gitAddDefintion`)
+
 
 //////////////////PROBLEM 7////////////////////
 /*
