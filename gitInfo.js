@@ -11,7 +11,7 @@
 
 //CODE HERE
 
-
+const gitDefinition = " Git is version contro system. It used for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. "
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -21,8 +21,7 @@
 
 //CODE HERE
 
-var gitHubDefinition =`Where you store repo`
-    console.log(` gitHubDefintion`)
+const gitHubDefinition = " GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code."
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -32,8 +31,7 @@ var gitHubDefinition =`Where you store repo`
 
 //CODE HERE
 
-var gitInitDefinition = `create empty git repo`
-    console.log(`gitInitDefintion`)
+const gitInitDefinition = " It is git command used to initialize new git repository. "
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -43,7 +41,7 @@ var gitInitDefinition = `create empty git repo`
 
 //CODE HERE
 
-var gitCloneDefinition = ``
+const gitCloneDefinition = " It is git command used to Clone a repository into a new directory"
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -52,6 +50,8 @@ var gitCloneDefinition = ``
 */
 
 //CODE HERE
+const gitStatusDefinition = " It is git command used to show the working tree status."
+
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -64,8 +64,11 @@ var gitCloneDefinition = ``
 
 //CODE HERE
 
-var gitAddDefinition `add file context to index`
-    console.log(`gitAddDefintion`)
+const gitAddDefinition = " It is git command used to add file contents to the index "
+
+ const gitAddCode = " git add ."
+
+
 
 
 //////////////////PROBLEM 7////////////////////
@@ -87,3 +90,6 @@ var gitAddDefinition `add file context to index`
 */
 
 //CODE HERE
+const gitCommitDefinition = " The git commit command captures a snapshot of the project's currently staged changes."
+
+ const gitCommitCode = ` git commit -am "Initial commit"`
